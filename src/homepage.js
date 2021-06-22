@@ -9,7 +9,7 @@ const homepage = posts => `
     <body>
         <header>
             <h1>${config.blogName}</h1>
-            <p>This blog is written by <a href="${config.authorWebsite}">${config.authorName}</a>, ${config.authorDescription}.</p>
+            <p>This website is written by ${config.authorName}</a>, ${config.authorDescription}.</p>
         </header>
         <main>
         ${posts
