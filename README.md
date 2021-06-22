@@ -24,8 +24,8 @@ Uditesh Jha:
 - []
 
 Haroon Shaffulla:
-- []
-- []
+- [X] A1 - Injection
+- [X] A2 - Broken Authentication
 
 Eric Wickham: 
 - [X] A9 - Using Components with Known Vulnerabilities
