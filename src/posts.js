@@ -11,7 +11,6 @@ const posthtml = data => `
     <body>
         <header><a href="/">Go back home</a><h1>${data.attributes.title}</h1></header>
         <main>
-            <p>${new Date(parseInt(data.attributes.date)).toDateString()}</p>
             <hr>
             ${data.body}
         </main>

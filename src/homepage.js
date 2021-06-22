@@ -14,11 +14,7 @@ const homepage = posts => `
         <main>
         ${posts
             .map(
-                post => `<h2><a href="./${post.path}/index.html">${post.attributes.title}</a></h2>
-                    <small>${new Date(
-                      parseInt(post.attributes.date)
-                    ).toDateString()}</small>
-                  <p>${post.attributes.description}</p>`
+                post => `<ul><li><a href="./${post.path}/index.html">${post.attributes.title}</a></li></ul>`
               )
             .join("")
         }
