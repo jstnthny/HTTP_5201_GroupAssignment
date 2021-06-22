@@ -1,5 +1,5 @@
 ---
-title: A10:2017-Insufficient Logging & Monitoring:
+title: A10:2017-Insufficient Logging & Monitoring
 ---
 
 ## Summary
