@@ -1,3 +1,5 @@
+# Link to website: https://festive-williams-ec49f1.netlify.app/
+
 # A very simple SSG
 
 ## Inspired
